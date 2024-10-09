@@ -1,11 +1,10 @@
-
 <h1 align="center">Hogwarts Calculator</h1>
-
+<picture src="assets\hogwarts-7917.png"></picture>
 <a href="https://www.freepnglogos.com/images/hogwarts-7917.html">Get it on hogwarts logo shadopro deviantart</a>
 <h2 align="center">What?</h2>
 A calculator application with the option to choose the layout to match your favorite Hogwarts house at the touch of a button on the top left corner. The calculator will be able to perform basic arithmetic operations like addition, subtraction, multiplication, or division.
 <h2 align="center">Why?</h2>
-<b>Purpose: </b>Many people use calculators daily to solve problems at school, work, and grocery stores. Many people are also huge Harry Potter fans like me, but there is no calculator where they can show off their Hogwarts house while they solve math problems. This application serves as a remedy and will have you J.K. Rolling through your math equations in no time. 
+<b>Purpose: </b>Many people use calculators daily to solve problems at school, work, and grocery stores. Many people are also huge Harry Potter fans like me, but there is no calculator where they can show off their Hogwarts house while they solve math problems. This application serves as a remedy and will have you J.K. Rolling through your math equations in no time.
 
 <h2 align="center">How to Install and Run?</h2>
 <ol>
@@ -56,4 +55,4 @@ Below the application will be a quote from the sorting hat concerning the charac
 </ui>
   
 <h3>Notice</h3>
-All rights for any Hogwarts references belong to J.K. Rolling.  
+All rights for any Hogwarts references belong to J.K. Rolling.
