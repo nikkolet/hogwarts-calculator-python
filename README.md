@@ -42,6 +42,16 @@ Slytherin
 <br>
 You will click the house you want and the layout will change to match Hogwarts house colors. 
 <br>
+<br>
+Hufflepuff - Yellow and Black
+<br>
+Ravenclaw - Blue and Bronze
+<br>
+Gryffindor - Red and Gold
+<br>
+Slytherin - Green and Silver
+<br>
+<br>
 <b>Quote</b>
 <br>
 Below the application will be a quote from the sorting hat concerning the characteristics of those sorted into that house.
