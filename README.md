@@ -1,5 +1,5 @@
 <h1 align="center">Hogwarts Calculator</h1>
-<picture src="assets\hogwarts-7917.png"></picture>
+<picture src="./hogwarts-7917.png"></picture>
 <a href="https://www.freepnglogos.com/images/hogwarts-7917.html">Get it on hogwarts logo shadopro deviantart</a>
 <h2 align="center">What?</h2>
 A calculator application with the option to choose the layout to match your favorite Hogwarts house at the touch of a button on the top left corner. The calculator will be able to perform basic arithmetic operations like addition, subtraction, multiplication, or division.
